@@ -1,2 +1,2 @@
 # Vem-Transformar-2023
-Projeto criado, voltado ao público para o registro de ações que ajudam transformar o mundo,  relacionados com  sustentabilidade ambiental. Acreditamos que se cada um contribuir de uma forma tornaremos o mundo em um lugar melhor 
+Projeto desenlvolvido  a todo  público que se interessa pelo tema "sustentabilidade", o registro de ações ajuda  transformar o mundo. Acreditamos que, cada um contribui  de  forma  a tornar o mundo  um lugar melhor. 
